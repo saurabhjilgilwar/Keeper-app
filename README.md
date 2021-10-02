@@ -6,4 +6,4 @@ It has all functionality adding deleting notes with title and content |
 
 using all React property (props, hooks, managing tree components etc.)
 
-Project Link : https://keeper-app-reactjs.herokuapp.com/
+Project Link : https://festive-noyce-006ac0.netlify.app/
